@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Reach me: <b><a href='https://give-you-up.surge.sh'>HERE!</a></b>
+Reach me <b><a href='https://give-you-up.surge.sh'>here.</a></b>
 <!--
 **svmihar/svmihar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
